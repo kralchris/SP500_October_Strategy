@@ -1,0 +1,1 @@
+# SP500_October_Strategy
