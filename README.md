@@ -11,14 +11,14 @@ This repository demonstrates a sophisticated approach to predicting asset price 
 - **Backtesting Engine:** A fully functional backtest engine that simulates trades based on model outputs, using a 1% take profit and 2% stop-loss rule for portfolio optimization.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Data Sources](#data-sources)
-3. [Machine Learning Models](#machine-learning-models)
-4. [Backtesting](#backtesting)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Next Steps](#next-steps)
-8. [License](#license)
+1. Key Dependencies
+2. Data Sources
+3. Machine Learning Models
+4. Backtesting
+5. Usage
+6. Results
+7. Next Steps
+8. License
 
 ### Key Dependencies:
 - `pandas`, `numpy`: For data manipulation and numerical computations.
