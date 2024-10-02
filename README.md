@@ -1,7 +1,7 @@
 # S&P 500 Prediction Model: Quantitative Trading with Machine Learning and Macroeconomic Indicators
 
 ## Overview
-This repository demonstrates a sophisticated approach to predicting asset price movements using machine learning techniques, technical indicators, and macroeconomic data. As a quantitative trader and portfolio manager, I have combined several models to optimize trading signals and backtest strategies on the S&P 500 index. The objective is to leverage machine learning models to generate high-confidence trade signals, maximize portfolio performance, and control risk through systematic backtesting using predefined profit and stop-loss targets.
+This repository demonstrates a sophisticated approach to predicting asset price movements using machine learning techniques, technical indicators, and macroeconomic data. As a quant trader, I have combined several models to optimize trading signals and backtest strategies on the S&P 500 index. The objective is to leverage machine learning models to generate high-confidence trade signals, maximize portfolio performance, and control risk through systematic backtesting using predefined profit and stop-loss targets.
 
 ### Key Features
 - **Machine Learning Algorithms:** Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines (SVM) to predict market direction.
