@@ -20,15 +20,6 @@ This repository demonstrates a sophisticated approach to predicting asset price 
 7. [Next Steps](#next-steps)
 8. [License](#license)
 
-## Installation
-To get started with the project, you’ll need to clone this repository and install the required dependencies.
-
-```bash
-git clone https://github.com/your-username/sp500-prediction-model.git
-cd sp500-prediction-model
-pip install -r requirements.txt
-```
-
 ### Key Dependencies:
 - `pandas`, `numpy`: For data manipulation and numerical computations.
 - `yfinance`: For fetching historical financial data.
